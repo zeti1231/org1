@@ -1,0 +1,19 @@
+.boton {
+    background-color: #6278F7;
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serf;
+    padding: 24px 32px;
+    /*24px arriba y abajo, y 32px a los lados*/
+    border: none;
+    color: #ffffff;
+    margin: 32px 0;
+    cursor: pointer;
+    /*Pointer muestra mano, al pasar el cursor por el boton*/
+}
+
+.boton:hover {
+    /*hover hace que el color del texto del botón, cambie de blanco a verde,cuando se pasa el cursor*/
+    color: #95ffd4;
+
+}
